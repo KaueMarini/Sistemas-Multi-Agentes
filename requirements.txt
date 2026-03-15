@@ -1,0 +1,8 @@
+crewai==1.0.1
+streamlit
+chainlit
+google-genai
+langchain-google-genai
+crewai_tools
+pypdf
+duckduckgo-search
