@@ -1,8 +1,8 @@
-crewai==1.0.1
+crewai==1.0.0
 streamlit
 chainlit
-google-genai
-langchain-google-genai
+langchain-openai
 crewai_tools
 pypdf
 duckduckgo-search
+python-dotenv
